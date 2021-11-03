@@ -76,6 +76,16 @@ img{
     
 }
 
+a:hover {
+    text-decoration: none;
+    color: #2187e7b3;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
 .percent {
     position: relative;
     width: 100%;
